@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axaviapa.github.io/sitemap_index.axaviapa
